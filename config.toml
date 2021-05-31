@@ -1,0 +1,14 @@
+
+[ger]
+  interval = 2
+  max_cache = 2
+  prefix = "GER"
+  save_period = 30
+  url = "D:\\document\\Paradox Interactive\\Hearts of Iron IV\\save games"
+
+[jap]
+  interval = 3
+  max_cache = 50
+  prefix = "JAP"
+  save_period = 30
+  url = "D:\\document\\Paradox Interactive\\Hearts of Iron IV\\save games"
